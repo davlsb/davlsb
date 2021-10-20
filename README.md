@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 📊 A little stat dazzle:
 ![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
 
 
