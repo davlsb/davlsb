@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy />
+
+![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
 
 
