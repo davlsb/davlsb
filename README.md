@@ -1,7 +1,7 @@
 # Dee Slawotsky (They/Them) 👋
 
 Hi, I'm a Computer Science student currently learning in Queens College, NYC.  <br />
-I love structure, design, and fluidity. I love spending time on fixing little details.
+I love structure, design, and fluidity. Spending time on fixing little details is my thing.
 
 ### 🖥 Skills:
 - Programming: Java C++ HTML CSS JavaScript Python SQL
