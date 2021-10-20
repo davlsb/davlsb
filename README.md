@@ -11,6 +11,9 @@ I love structure, design, and fluidity. I love spending time on fixing little de
 ### 🌱 I’m currently learning...
 - APIs
 - Bootstrap
+- 
+### 📫 How to reach me: ...
+The best way to reach me is by using the form on my website, at https://deedev.dev
 
 <!--
 **davlsb/davlsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
