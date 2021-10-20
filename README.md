@@ -13,7 +13,7 @@ I love _structure, design,_ and _fluidity_. Spending time on fixing little detai
 - Bootstrap
 
 ### 📫 How to reach me:
-The best way to reach me is by using the form on my website, at https://deedev.dev
+The best way to reach me is by using the form on my [website](https://deedev.dev)
 
 ### ✨ Some GitHub statistics :
 ![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
