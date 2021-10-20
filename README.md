@@ -1,7 +1,7 @@
 # Dee Slawotsky (They/Them) 👋
 
 Hi, I'm a Computer Science student currently learning in Queens College, NYC.  <br />
-I love structure, design, and fluidity. Spending time on fixing little details is my thing.
+I love _structure, design,_ and _fluidity_. Spending time on fixing little details is my thing.
 
 ### 🖥 Skills:
 - Programming: Java C++ HTML CSS JavaScript Python SQL
@@ -14,6 +14,9 @@ I love structure, design, and fluidity. Spending time on fixing little details i
 
 ### 📫 How to reach me:
 The best way to reach me is by using the form on my website, at https://deedev.dev
+
+### ✨ Some GitHub statistics :
+![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
 
 <!--
 **davlsb/davlsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
-### 📊 Some GitHub statistics :
-![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
 
 
