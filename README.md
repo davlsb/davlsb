@@ -1,4 +1,4 @@
-# Hi, I'm Dee Slawotsky (They/Them) 👋🏻👨🏻‍💻
+# Hi, I'm Dee (They/Them) 👋🏻👨🏻‍💻
 
 I'm a Computer Science student currently learning in Queens College, NYC.  <br />
 I love _structure, design,_ and _fluidity_. Spending time on fixing little details is my thing.
