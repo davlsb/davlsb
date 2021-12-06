@@ -1,5 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Hey+There,I'm+Dee)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236233F7&size=26&vCenter=true&multiline=true&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
+![Typing](https://readme-typing-svg.herokuapp.com/?color=%236233F7&size=26&multiline=true&lines=Welcome+to+my+Github+page)
 
 
 # Hi, I'm Dee (They/Them) 👋🏻👨🏻‍💻
