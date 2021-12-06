@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There,;I'm+Nirvana)
+
+
 # Hi, I'm Dee (They/Them) 👋🏻👨🏻‍💻
 
 I'm a Computer Science student currently learning in Queens College, NYC.  <br />
