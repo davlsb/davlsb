@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com/?color=%236233F7&size=26&multiline=true&lines=git+config+user.name+"@davlsb")
+![Typing](https://readme-typing-svg.herokuapp.com/?color=%236233F7&width=600&size=26&multiline=true&lines=git+config+user.name+"@davlsb"+;)
 
 
 # Hi, I'm Dee (They/Them) 👋🏻👨🏻‍💻
