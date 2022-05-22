@@ -13,7 +13,7 @@ I love _structure, design,_ and _fluidity_. I enjoy fixing the little details.
 
 ### 🌱 I’m currently learning:
 - APIs
-- Bootstrap
+- Firebase
 
 ### 📫 How to reach me:
 The best way to reach me is by using the form on my [website](https://deedev.dev)
