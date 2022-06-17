@@ -3,15 +3,13 @@
 
 # Hi, I'm Dee (They/Them) 👋🏻🧑🏻‍💻
 I'm a Computer Science student currently learning in Queens College, NYC.  <br />
-I love _structure, design,_ and _fluidity_. I enjoy fixing the little details.
-
 ### 🖥 Skills:
 - Programming: Java, C++, HTML, CSS, JavaScript, Python, SQL
 - Technologies: Eclipse, MS Visual Studio Code, Android Studio, MYSQL. pgAdmin, Git, Github, Tableau, Google Colab
 - Spoken Languages: Hebrew (Native)
 
 ### 🌱 I’m currently learning:
-- APIs
+- Ruby
 - Firebase
 
 ### 📫 How to reach me:
