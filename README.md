@@ -16,7 +16,7 @@ I love _structure, design,_ and _fluidity_. I enjoy fixing the little details.
 - Firebase
 
 ### 📫 How to reach me:
-The best way to reach me is by using the form on my [website](https://deedev.dev)
+The best way to reach me is by using on the options on my [website](https://deedev.dev)
 
 ### ✨ Some GitHub statistics :
 ![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
