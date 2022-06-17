@@ -1,7 +1,7 @@
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=%236233F7&width=600&size=26&multiline=true&lines=git+config+user.name+"@davlsb"+;)
 
 
-# Hi, I'm Dee (They/Them) 👋🏻👨🏻‍💻
+# Hi, I'm Dee (They/Them) 👋🏻🧑‍💻
 
 I'm a Computer Science student currently learning in Queens College, NYC.  <br />
 I love _structure, design,_ and _fluidity_. I enjoy fixing the little details.
