@@ -9,7 +9,7 @@ I'm a Computer Science student currently learning in Queens College, NYC.  <br /
 - Spoken Languages: Hebrew (Native)
 
 ### 🌱 I’m currently learning:
-- Ruby
+- React
 - Firebase
 
 ### 📫 How to reach me:
