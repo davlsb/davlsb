@@ -16,7 +16,7 @@ I'm a Computer Science student currently learning in Queens College, NYC.  <br /
 The best way to reach me is by using on the options on my [website](https://deedev.dev)
 
 ### ✨ Some GitHub statistics :
-![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&show_icons=true&theme=buefy)
+![Stats](https://github-readme-stats.vercel.app/api?username=davlsb&count_private=true&show_icons=true&theme=buefy)
 
 <!--
 **davlsb/davlsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
