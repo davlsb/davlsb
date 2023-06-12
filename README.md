@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Dee (They/Them) 👋🏻🧑🏻‍💻
-I'm a Software Engineer from Queens, NYC.  <br />
+I'm a recent computer science graduate from Queens College, NYC.  <br />
 ### 🖥 Skills:
 - Programming: Java, C++, HTML, CSS, JavaScript, Python, SQL
 - Technologies: Eclipse, MS Visual Studio Code, Android Studio, MYSQL, pgAdmin, Git, Github, Tableau, Google Colab
