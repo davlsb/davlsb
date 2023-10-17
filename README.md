@@ -4,13 +4,13 @@
 # Hi, I'm Dee (They/Them) 👋🏻🧑🏻‍💻
 I'm a recent computer science graduate from Queens College, NYC.  <br />
 ### 🖥 Skills:
-- Programming: Java, C++, HTML, CSS, JavaScript, Python, SQL
+- Programming: Java, C++, HTML, CSS, JavaScript, Python, SQL, React
 - Technologies: Eclipse, MS Visual Studio Code, Android Studio, MYSQL, pgAdmin, Git, Github, Tableau, Google Colab
 - Spoken Languages: Hebrew (Native)
 
-### 🌱 I’m currently learning:
-- React
-- Firebase
+### 🌱 I’m constantly learning, but also:
+- Grinding Leetcode
+- Looking for jobs in meaningful positions
 
 ### 📫 How to reach me:
 The best way to reach me is by using on the options on my [website](https://deedev.dev)
