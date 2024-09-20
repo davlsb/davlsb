@@ -9,8 +9,8 @@ I'm a recent computer science graduate from Queens College, NYC.  <br />
 - Spoken Languages: Hebrew (Native)
 
 ### 🌱 I’m constantly learning, but also:
-- Grinding Leetcode
-- Looking for jobs in meaningful positions
+- Doing my skincare
+- Exploring NYC
 
 ### 📫 How to reach me:
 The best way to reach me is by using on the options on my [website](https://deedev.dev)
